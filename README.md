@@ -1,4 +1,4 @@
-# Atividade 1: Relatório e Diretrizes
+# Atividade 2: Relatório e Diretrizes
 
 ## Conteúdo do Relatório
 1. **Descrição da Solução:** Explique como seu servidor gerencia a lista de clientes ativos e como o `Lock` protege o estoque.
